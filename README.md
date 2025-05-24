@@ -1,0 +1,3 @@
+# Zen Garden Gran Canaria
+
+Este es un proyecto web minimalista y accesible inspirado en la serenidad de los jardines japoneses...

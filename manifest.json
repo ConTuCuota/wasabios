@@ -1,0 +1,20 @@
+{
+  "name": "Zen Garden Gran Canaria",
+  "short_name": "Zen Garden",
+  "start_url": "/index_en.html",
+  "display": "standalone",
+  "background_color": "#a7f3d0",
+  "theme_color": "#a7f3d0",
+  "icons": [
+    {
+      "src": "images/logo-wasabios.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/logo-wasabios.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
